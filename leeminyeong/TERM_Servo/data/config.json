@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "tls": false,
+    "pubInterval": 200
+  },
+  "ssid": "IoT518",
+  "w_pw": "iot123456",
+  "broker": "54.197.59.70",
+  "port": 1883,
+  "config": "done"
+}
